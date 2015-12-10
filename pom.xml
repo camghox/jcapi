@@ -2,10 +2,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.zhaohuo18.api</groupId>
-	<artifactId>CAPI</artifactId>
+	<artifactId>jcapi</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>CAPI Maven Webapp</name>
+	<name>JCAPI Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
 		<dependency>
@@ -110,7 +110,7 @@
 		</dependency>  
 	</dependencies>
 	<build>
-		<finalName>CAPI</finalName>
+		<finalName>jcapi</finalName>
 		<plugins>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
